@@ -29,6 +29,8 @@ const OrderedCards = (props) => {
   // getting id for booked place
   useEffect(() => {
     const url = `https://calida-tour-planner.onrender.com/plans/${plan.bookedPlace}`;
+    console.log("Fetching data from:", url);
+
     fetch(url)
       .then((res) => res.json())
       .then((data) => setPlanDetails(data));
