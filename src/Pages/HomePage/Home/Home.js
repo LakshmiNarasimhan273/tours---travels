@@ -3,6 +3,7 @@ import Features from "../Features/Features";
 import Guidelines from "../Guidelines/Guidelines";
 import Banner from "./../Banner/Banner";
 import Services from "./../Services/Services";
+import About from "../About/About";
 
 const Home = () => {
   // COLOR THEME:
@@ -14,6 +15,7 @@ const Home = () => {
       <Services></Services>
       <Features></Features>
       <Guidelines></Guidelines>
+      <About></About>
     </div>
   );
 };

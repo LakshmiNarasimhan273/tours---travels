@@ -1,0 +1,89 @@
+{
+  "locations": [
+    {
+      "id": "1",
+      "location_name": "Taj Mahal",
+      "image": "https://i.pinimg.com/564x/11/a2/c3/11a2c3d7a387f65aef559bd722553db5.jpg",
+      "price": "INR 1,100",
+      "description": "The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal."
+    },
+    {
+      "id": "2",
+      "location_name": "Goa",
+      "image": "https://i.pinimg.com/564x/e4/a7/3a/e4a73a0e728e8897cfa98367d47166c5.jpg",
+      "price": "INR 20,000",
+      "description": "Goa is a state in western India with coastlines stretching along the Arabian Sea. It is renowned for its beaches, places of worship, and world heritage architecture. Goa is visited by large numbers of international and domestic tourists each year."
+    },
+    {
+      "id": "3",
+      "location_name": "Kerala Backwaters",
+      "image": "https://i.pinimg.com/564x/2f/1d/80/2f1d807dff41d1787dbf42a1db99fa1c.jpg",
+      "price": "INR 15,000",
+      "description": "The Kerala backwaters are a chain of brackish lagoons and lakes lying parallel to the Arabian Sea coast of Kerala state in southern India. The backwaters are a network of interconnected canals, rivers, lakes, and inlets, a labyrinthine system formed by more than 900 km of waterways."
+    },
+    {
+      "id": "4",
+      "location_name": "Jaipur",
+      "image": "https://i.pinimg.com/564x/98/bd/23/98bd230e574b5f3703983e729b078b05.jpg",
+      "price": "INR 10,000",
+      "description": "Jaipur is the capital of the Indian state of Rajasthan. It is known as the 'Pink City' due to the distinct color of its buildings. The city is a popular tourist destination known for its palaces, forts, and vibrant culture."
+    },
+    {
+      "id": "5",
+      "location_name": "Leh-Ladakh",
+      "image": "https://i.pinimg.com/564x/c3/5b/56/c35b5655e5e5982338ac6058a064e368.jpg",
+      "price": "INR 30,000",
+      "description": "Leh-Ladakh is a region in the Indian state of Jammu and Kashmir, known for its barren landscapes, high altitude, and Tibetan Buddhist monasteries. It is a popular destination for adventure enthusiasts and nature lovers."
+    },
+    {
+      "id": "6",
+      "location_name": "Munnar",
+      "image": "https://i.pinimg.com/736x/f2/8d/ee/f28deed5516d14e10cc243cf65784a07.jpg",
+      "price": "INR 12,000",
+      "description": "Munnar is a town and hill station located in the Western Ghats mountain range in Kerala, India. It is known for its tea plantations, mist-covered hills, and diverse flora and fauna. Munnar is a popular destination for honeymooners and nature enthusiasts."
+    },
+    {
+      "id": "7",
+      "location_name": "Mysore Palace",
+      "image": "https://i.pinimg.com/564x/ea/14/52/ea1452bed41f8a557d1f05279ccd7eee.jpg",
+      "price": "INR 200",
+      "description": "Mysore Palace, also known as the Amba Vilas Palace, is a historical palace and a royal residence located in the city of Mysore, Karnataka. It is one of the most famous tourist attractions in India, known for its stunning architecture, intricate craftsmanship, and grandeur. The palace is illuminated with thousands of lights during the Dasara festival, which is a sight to behold."
+    },
+    {
+      "id": "8",
+      "location_name": "Kanyakumari",
+      "image": "https://i.pinimg.com/564x/a1/bd/86/a1bd8655f1bd733328f526912ce18e9c.jpg",
+      "price": "INR 5,000",
+      "description": "Kanyakumari, also known as Cape Comorin, is a coastal town in the southernmost tip of the Indian peninsula in Tamil Nadu. It is renowned for its picturesque sunrises, sunsets, and the convergence of the Bay of Bengal, Arabian Sea, and Indian Ocean. Kanyakumari is also famous for its Vivekananda Rock Memorial and Thiruvalluvar Statue, both dedicated to the Indian philosopher Swami Vivekananda and the Tamil poet Thiruvalluvar, respectively."
+    },
+    {
+      "id": "9",
+      "location_name": "Victoria Memorial",
+      "image": "https://i.pinimg.com/564x/64/a9/60/64a960240f35cb7af7241fad9873680c.jpg",
+      "price": "INR 500",
+      "description": "The Victoria Memorial is a large marble building in Kolkata, West Bengal, India, which was built between 1906 and 1921. It is dedicated to the memory of Queen Victoria and is now a museum and tourist destination under the auspices of the Ministry of Culture. The memorial lies on the Maidan (grounds) by the bank of the Hooghly River."
+    }
+  ],
+  "details": [
+    {
+      "id": "51fe",
+      "name": "Ntech tambaram",
+      "email": "ntechtambaram@gmail.com",
+      "phone": "123455",
+      "address": "653, Naduvakkarai",
+      "adult": "1",
+      "child": "5",
+      "status": ""
+    },
+    {
+      "id": "1526",
+      "name": "Ntech tambaram",
+      "email": "ntechtambaram@gmail.com",
+      "phone": "8",
+      "address": "653, Naduvakkarai",
+      "adult": "1",
+      "child": "1",
+      "status": ""
+    }
+  ]
+}

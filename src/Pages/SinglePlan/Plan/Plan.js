@@ -7,15 +7,15 @@ const Plan = () => {
   const { planId } = useParams();
   const [plan, setPlan] = useState([]);
   useEffect(() => {
-    const url = `https://calida-tour-planner.onrender.com/plans/${planId}`;
+    const url = `http://localhost:3001/locations/${planId}`;
     fetch(url)
       .then((res) => res.json())
       .then((data) => setPlan(data));
   }, []);
   return (
     <div>
-      <DetailsPlan plan={plan} key={plan._id}></DetailsPlan>
-      <BookPlan plan={plan} key={plan._id}></BookPlan>
+      <DetailsPlan plan={plan} key={plan.id}></DetailsPlan>
+      <BookPlan plan={plan} key={plan.id}></BookPlan>
     </div>
   );
 };

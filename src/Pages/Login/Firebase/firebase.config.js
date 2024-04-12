@@ -1,11 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAaMq7RLLdPNv6Gwzb69sv2Nxz8y8X0CN4",
-  authDomain: "tour-b34a0.firebaseapp.com",
-  projectId:"tour-b34a0",
-  storageBucket:"tour-b34a0.appspot.com" ,
-  messagingSenderId: "832373240872",
-  appId:"1:832373240872:android:5b311a202f9dc3b0f1711d"
-
+  apiKey: "AIzaSyDPWe44oXjPO23tGpVJQbk6DYVRZhKDOHA",
+  authDomain: "tour-2b183.firebaseapp.com",
+  projectId: "tour-2b183 ",
+  storageBucket: "tour-2b183.appspot.com",
+  messagingSenderId: "839344437357",
+  appId: "1:839344437357:web:bfa628e6a7793e58f2e764",
 };
 export default firebaseConfig;
 // process.env.REACT_APP_FIREBASE_API_KEY,
@@ -14,3 +13,11 @@ export default firebaseConfig;
 // process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID
 // process.env.REACT_APP_FIREBASE_STORAGE_BUCKET
 //process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+// apiKey: "AIzaSyDPWe44oXjPO23tGpVJQbk6DYVRZhKDOHA",
+// authDomain: "tour-2b183.firebaseapp.com",
+// projectId: "tour-2b183",
+// storageBucket: "tour-2b183.appspot.com",
+// messagingSenderId: "839344437357",
+// appId: "1:839344437357:web:bfa628e6a7793e58f2e764",
+// measurementId: "G-C7L5XMGTRZ"
+// };

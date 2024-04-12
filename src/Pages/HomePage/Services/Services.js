@@ -4,10 +4,11 @@ import ServiceCard from "../ServiceCard/ServiceCard";
 const Services = () => {
   const [plans, setPlans] = useState([]);
   useEffect(() => {
-    fetch("https://calida-tour-planner.onrender.com/plans")
+    fetch("http://localhost:3001/locations")
       .then((res) => res.json())
       .then((data) => setPlans(data));
   }, []);
+  console.log(plans);
   return (
     <div id="services">
       <div className="w-full bg-white p-12">
@@ -23,7 +24,7 @@ const Services = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-12">
           {plans.map((plan) => (
-            <ServiceCard key={plan._id} planDetails={plan}></ServiceCard>
+            <ServiceCard key={plan.id} planDetails={plan}></ServiceCard>
           ))}
         </div>
       </div>
